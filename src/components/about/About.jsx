@@ -17,7 +17,7 @@ const About = () => {
             <img src={ME} alt='About Image'></img>
           </div>
         </div>
-
+ 
         <div className="about__content">
           <div className="about__cards">
 
@@ -29,8 +29,8 @@ const About = () => {
 
             <article className="about__card">
               <FiUsers className='about__icon' />
-              <h5>Clients</h5>
-              <small>300+ Worldwide</small>
+              <h5>Teams</h5>
+              <small>Worked in teams of 10+</small>
             </article>
 
             <article className="about__card">
