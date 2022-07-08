@@ -19,7 +19,8 @@ const Footer = () => {
         {/* <li><a href="#testimonials">Testimonials</a></li> */}
         <li><a href="#contact">Contact</a></li>
       </ul>
-       
+        
+        
 
       <div className="footer__socials">
         <a href="https://facebook.com" target="_blank"><FaFacebookF/></a>
