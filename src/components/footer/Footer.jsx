@@ -20,13 +20,14 @@ const Footer = () => {
         <li><a href="#contact">Contact</a></li>
       </ul>
         
-        
+
 
       <div className="footer__socials">
         <a href="https://facebook.com" target="_blank"><FaFacebookF/></a>
         <a href="https://youtube.com" target="_blank"><FaYoutube/></a>
         <a href="https://github.com" target="_blank"><VscGithub/></a>
       </div>
+
 
       <div className="footer__copyright">
         <small>&copy;Dan Kilian. All Rights Reserved.</small>
