@@ -24,7 +24,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className='about__icon' />
               <h5>Experience</h5>
-              <small>1+ years working working</small>
+              <small>1+ years software </small>
             </article>
 
             <article className="about__card">
@@ -35,13 +35,15 @@ const About = () => {
 
             <article className="about__card">
               <VscFolderLibrary className='about__icon' />
-              <h5>Projects</h5>
-              <small>80+ Completed Projects</small>
+              <h5>Repositories</h5>
+              <small> 8+ projects available on Github</small>
             </article>
           </div>
 
           <p>
-            This is where I will put an about-me blurb, This should be roughly 300 characters, or 4 lines. 
+            I've enjoyed working with computers my whole life, playing video games, building my own rigs, and helping the occasional friend or family 
+            member with their tech issues. After using my free time to create helpful scripts at my non-tech 
+            jobs, I realized I want to do this not just on the side, but as a career.  
           </p>
 
           <a href='#contact' className="btn btn-primary">Let's Talk</a>
