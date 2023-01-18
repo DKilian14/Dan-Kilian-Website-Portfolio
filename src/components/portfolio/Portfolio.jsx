@@ -1,7 +1,7 @@
 import React from 'react'
 import './portfolio.css'
 import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/blackjack.jpg'
+import IMG2 from '../../assets/bankApp.JPG'
 import IMG3 from '../../assets/portfolio3.png'
 import IMG4 from '../../assets/portfolio4.png'
 import IMG5 from '../../assets/portfolio5.png'
@@ -17,9 +17,9 @@ const data = [
 },
 {id:2,
   image: IMG2,
-  title:'Simple Blackjack',
-  github: 'https://github.com/DKilian14/blackjack2022',
-  demo: 'https://black-jack-2022.netlify.app/', 
+  title:'Modern Bank Landing Page (React)',
+  github: 'https://github.com/DKilian14/bank-modern-app',
+  demo: 'https://dkilian14.github.io/bank-modern-app/', 
 },
 {id:3,
   image: IMG3,
